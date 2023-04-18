@@ -1,0 +1,4 @@
+SELECT 
+*
+FROM OITM 
+WHERE "ItemCode"='10010615'
