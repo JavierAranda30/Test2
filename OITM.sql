@@ -1,4 +1,4 @@
 SELECT 
 *
 FROM OITM 
-WHERE "ItemCode"='10010615'
+WHERE "ItemCode"='10023805'
